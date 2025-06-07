@@ -1,3 +1,5 @@
+#Marcenaria_Pica-Pau
+
 Um projeto utilizando Python, CustomTkinter e sqlite para fazer uma interface funcional de uma marcenaria com: janela de login, cadastro de produtos e de encomendas(podendo cadastrar, listar, editar e remover produtos).
 
 Na primeira janela temos a entrada de login e senha , caso não haja cadastro , há um botao para a janela de cadastro de usuario.
